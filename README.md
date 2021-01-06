@@ -16,4 +16,4 @@ STEP-2: On a single graph, plotting 3 lines:
 
 STEP-3: Labeling each of the 3 curves and displaying the legend.
 
-You can see the python code for this project through the .ipynb file and the graph through the .pdf file uploaded in this repo.
+You can see the python code for this project in the .ipynb file and the graph in the .pdf file uploaded in this repo.
