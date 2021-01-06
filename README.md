@@ -15,3 +15,5 @@ STEP-2: On a single graph, plotting 3 lines:
          3. India’s GDP per capita (y-axis) over the years (x-axis)
 
 STEP-3: Labeling each of the 3 curves and displaying the legend.
+
+You can see the python code for this project through the .ipynb file and the graph through the .pdf file uploaded in this repo.
